@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [example suite 1]">
+  <test name="Regression suite 1(failed)">
+    <classes>
+      <class name="TestNGDemos.TestNGSkipDemo">
+        <methods>
+          <include name="funD"/>
+          <include name="funA"/>
+          <include name="funB"/>
+        </methods>
+      </class> <!-- TestNGDemos.TestNGSkipDemo -->
+      <class name="TestNGDemos.TestNGDemo2">
+        <methods>
+          <include name="login"/>
+          <include name="customerDetails"/>
+        </methods>
+      </class> <!-- TestNGDemos.TestNGDemo2 -->
+    </classes>
+  </test> <!-- Regression suite 1(failed) -->
+</suite> <!-- Failed suite [example suite 1] -->

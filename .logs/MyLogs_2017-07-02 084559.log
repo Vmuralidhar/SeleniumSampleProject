@@ -1,0 +1,4 @@
+TestNGDemos.Log4JDemo1.main(Log4JDemo1.java:17)evel	2017-07-02 08:45:59 Class Name: information info
+TestNGDemos.Log4JDemo1.main(Log4JDemo1.java:18)evel	2017-07-02 08:45:59 Class Name: warning
+TestNGDemos.Log4JDemo1.main(Log4JDemo1.java:19)evel	2017-07-02 08:45:59 Class Name: error
+TestNGDemos.Log4JDemo1.main(Log4JDemo1.java:20)evel	2017-07-02 08:45:59 Class Name: fatal
